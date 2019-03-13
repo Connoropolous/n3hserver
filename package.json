@@ -9,6 +9,6 @@
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "n3h": "github:holochain/n3h#make-config-work"
+    "n3h": "github:holochain/n3h#heroku-test"
   }
 }
