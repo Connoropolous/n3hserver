@@ -1,0 +1,19 @@
+{
+    "ipc": {
+        "connection": {
+            "rsaBits": 1024,
+            "bind": [
+                "wss://127.0.0.1:0/"
+            ]
+        }
+    },
+    "webproxy": {
+        "connection": {
+            "rsaBits": 1024,
+            "bind": [
+                "wss://0.0.0.0:8080/"
+            ]
+        },
+        "wssRelayPeers": null
+    }
+}

@@ -2,7 +2,6 @@
   "name": "n3hserver",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/n3h/bin/n3h",
     "test": "echo \"Error: no test specified\" && exit 1"
