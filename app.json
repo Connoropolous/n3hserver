@@ -1,0 +1,6 @@
+{
+    "name": "n3h relay server",
+    "description": "A server that can act as a relay proxy for Holochain apps to communicate via",
+    "repository": "https://github.com/Connoropolous/n3hserver",
+    "keywords": ["n3h"]
+  }
